@@ -12,7 +12,7 @@ Follow these steps to get **Meow_Meadow** up and running on your local machine:
 
 1. **Clone the repository**:
     ```sh
-    https://github.com/EurekaITESO/PythonGame.git
+    git clone https://github.com/EurekaITESO/PythonGame.git
     cd PythonGame
     ```
 
