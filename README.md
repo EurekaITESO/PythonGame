@@ -31,5 +31,5 @@ Follow these steps to get **Meow_Meadow** up and running on your local machine:
 To run **Meow_Meadow**, execute the main script:
 
 ```sh
-python main.py
-    ```
+cd code
+python3 main.py
